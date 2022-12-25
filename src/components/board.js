@@ -5,8 +5,8 @@ const Board = ({sanjeet}) => {
     <div>
     <div>
     
-      <Squares value={0}/>
-      <Squares value={1}/>
+      <Squares value={"gautam"}/>
+      <Squares value={"sanjeet"}/>
       <Squares value={2}/>
       
     </div>
